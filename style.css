@@ -22,3 +22,7 @@ section {
     margin: 0 auto;
     transform: translateY(100px) rotateZ(45deg);
 }
+
+.task-three {
+    transform: rotateX(180deg);
+}
