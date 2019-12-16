@@ -6,3 +6,11 @@ html, body {
 section {
     margin-top: 10px;
 }
+
+.task-one p::before {
+    content: "Once upon a time ";
+}
+
+.task-one p::after {
+    content: " The end.";
+}
